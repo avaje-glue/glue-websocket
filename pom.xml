@@ -10,7 +10,7 @@
 
   <groupId>org.avaje.glue</groupId>
   <artifactId>glue-websocket</artifactId>
-  <version>1.2</version>
+  <version>1.3-SNAPSHOT</version>
 
   <properties>
     <jetty.version>9.4.10.v20180503</jetty.version>
@@ -19,7 +19,7 @@
 
   <scm>
     <developerConnection>scm:git:git@github.com:avaje-glue/glue-websocket.git</developerConnection>
-    <tag>glue-websocket-1.2</tag>
+    <tag>HEAD</tag>
   </scm>
 
   <dependencies>
